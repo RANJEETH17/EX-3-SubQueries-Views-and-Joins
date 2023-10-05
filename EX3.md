@@ -184,7 +184,8 @@ SELECT customer1.cust_name AS "Customer Name",customer1.city AS "Customer City",
 ```
 
 ### OUTPUT:
-![image](https://github.com/RANJEETH17/EX-3-SubQueries-Views-and-Joins/assets/120718823/4b261484-223b-42dc-8e2b-cf10cd8b83e2)
+![image](https://github.com/RANJEETH17/EX-3-SubQueries-Views-and-Joins/assets/120718823/a9a4a726-65b3-42f6-8153-0978cf2eb660)
+
 
 
 
