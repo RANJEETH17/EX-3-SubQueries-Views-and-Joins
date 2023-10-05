@@ -184,7 +184,8 @@ SELECT customer1.cust_name AS "Customer Name",customer1.city AS "Customer City",
 ```
 
 ### OUTPUT:
-![image](https://github.com/RANJEETH17/EX-3-SubQueries-Views-and-Joins/assets/120718823/81746808-743b-4a75-b50a-bbd097c7af4e)
+![image](https://github.com/RANJEETH17/EX-3-SubQueries-Views-and-Joins/assets/120718823/4b261484-223b-42dc-8e2b-cf10cd8b83e2)
+
 
 
 ### Q9) Perform Natural join on both tables
